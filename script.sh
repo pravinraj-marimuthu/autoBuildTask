@@ -1,1 +1,1 @@
-echo 'Hello All, Welcome to Pravin's Repo!'
+echo 'Hello All, Welcome to my repo!'
